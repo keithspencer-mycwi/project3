@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.packtpub.phonegabhotshot.ch04.CordovaApp { <init>(...); }
+
